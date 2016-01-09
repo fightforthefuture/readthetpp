@@ -1,0 +1,27 @@
+ul.share {
+    text-align: center;
+    font-size: .000001px;
+    padding-bottom: 4rem;
+
+    li {
+        display: inline-block;
+        margin: 10px;
+    }
+    img {
+        display: inline-block;
+        width: 60px;
+        height: 60px;
+    }
+
+    @media screen and (min-width: (@max-width-emphasis + 200)) {
+        position: fixed;
+        left: 0px;
+        top: 50%;
+        margin-top: -100px;
+
+        li {
+            margin: 15px 15px 15px 0px;
+            display: block;
+        }
+    }
+}

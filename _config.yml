@@ -1,0 +1,47 @@
+#################################################
+# Config: Development                           #
+#################################################
+# (production settings go in _config.build.yml) #
+
+#############
+# Meta info #
+#############
+
+name: Read the TPP
+url: https://www.readthetpp.com
+description: Read the TPP to find out how much it sucks!
+timezone: America/Los_Angeles # Should be formatted like formal tz database
+googleanalytics: UA-XXXXXXXX-XX
+
+favicon: '' # replace this with path to favicon if that’s a thing you’re doing.
+pathlead: '' # use this if you need a leading slash or directory on asset paths
+
+author:
+    googleid: 102356128596404327231
+    twitterid: 382376904
+    twitter: fightfortheftr
+
+###########
+# Content #
+###########
+
+future: true
+show_drafts: true
+permalink: /:title/ # See Jekyll documentation for permalink styles
+
+#############
+# Compiling #
+#############
+
+exclude: [
+  'img', 'css', 'fonts', '**.haml',
+  '**.png', '**.jpg', '**.jpeg', '**.gif', '**.webp', '**.svg', '**.ico',
+]
+
+highlighter: pygments
+markdown: rdiscount
+rdiscount:
+  extensions:
+    - footnotes
+#    - autolink
+#    - smart

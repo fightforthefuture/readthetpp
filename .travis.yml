@@ -1,0 +1,17 @@
+language: node_js
+node_js:
+- '0.10'
+sudo: false
+cache:
+  bundler: true
+  directories:
+  - node_modules
+  - vendor
+before_install:
+  - gem install bundler
+install:
+  - npm install
+script:
+  - npm run build
+after_success:
+  - npm run deploy

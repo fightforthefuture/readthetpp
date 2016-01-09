@@ -1,0 +1,7 @@
+######################
+# Config: Production #
+######################
+
+future: false
+show_drafts: false
+production: true

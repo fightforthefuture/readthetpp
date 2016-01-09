@@ -1,0 +1,25 @@
+# top-most EditorConfig file
+root = true
+
+# Unix-style newlines with a newline ending every file
+[*]
+end_of_line = lf
+charset = utf-8
+
+# Clean whitespace
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+# Universal indents
+indent_style = space
+indent_size = 4
+
+# Javascript uniformity
+[*.js]
+curly_bracket_next_line = false
+spaces_around_operators = true
+spaces_around_brackets = both
+
+# except package.json
+[package.json]
+indent_size = 2

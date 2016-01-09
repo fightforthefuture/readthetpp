@@ -1,0 +1,36 @@
+header {
+    padding: 0rem 1rem;
+
+    h1 {
+        text-align: center;
+        font-size: 6rem;
+        line-height: 0.82;
+        padding: 3rem 0rem 1rem 0rem;
+
+        a {
+            color: black;
+            text-decoration: none;
+
+            &:hover {
+                text-decoration: underline;
+            }
+            &:visited {
+                color: black;
+            }
+        }
+    }
+
+    .github_ribbon {
+        img {
+            display: none;
+            position: absolute;
+            top: 0;
+            right: 0;
+            border: 0;
+
+            @media screen and (min-width: @max-width-emphasis) {
+                display: block;
+            }
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{% capture shownav %}{% if page.shownav %}{{ page.shownav }}{% endif %}{% endcapture %}
+{% capture contentclass %}{% if page.contentclass %}{{ page.contentclass }}{% endif %}{% endcapture %}
+<!doctype html>
+<html class="no-js">
+<head>
+    {% include meta.html %}
+</head>
+<body>
+    {% include header.html %}
+    {% if shownav == 'true' %}{% include nav.html %}{% endif %}
+
+    <div class="content {{ contentclass }}">{{ content }}<hr/></div>
+
+    {% include share.html %}
+    {% include footer.html %}
+    {% include scripts.html %}
+</body>
+</html>
