@@ -71,3 +71,10 @@
     }
 
 })(document, window);
+
+var displayAnnotations = function() {
+    if (!window['com.genius.Genius'])
+        return alert('Still loading! Try again in a sec.');
+
+    window['com.genius.Genius'].display_annotation()
+}
