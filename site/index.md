@@ -14,9 +14,9 @@ corporations control over the government.
 This site is a public resource created by
 [Fight for the Future](https://www.fightforthefuture.org), the
 [Electronic Frontier Foundation](https://www.eff.org), and
-[Public Citizen](https://www.citizen.org). We are publishing the full text of
-the TPP along with expert annotations explaining how it could actually affect
-you.
+[Communications Workers of America](http://www.cwa-union.org/). We are
+publishing the full TPP text along with expert annotations explaining
+how it could actually affect you.
 
 ---------
 
