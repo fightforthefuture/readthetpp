@@ -1,4 +1,4 @@
-# Read the TPP 
+# Read the TPP
 
 Welcome to the source code for Read the TPP! This project is licensed into the
 [public domain][01] and free to use for any purpose. Read this doc for
