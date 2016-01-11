@@ -7,10 +7,27 @@ ul.share {
         display: inline-block;
         margin: 10px;
     }
-    img {
+    button {
         display: inline-block;
-        width: 60px;
-        height: 60px;
+        width: @share-button-size;
+        height: @share-button-size;
+        border: 0px;
+        font-size: 0px;
+        color: rgba(0, 0, 0, 0);
+        cursor: pointer;
+
+        &.facebook {
+            background: url(../images/facebook.png);
+            background-size: @share-button-size @share-button-size;
+        }
+        &.google {
+            background: url(../images/google.png);
+            background-size: @share-button-size @share-button-size;
+        }
+        &.twitter {
+            background: url(../images/twitter.png);
+            background-size: @share-button-size @share-button-size;
+        }
     }
 
     @media screen and (min-width: (@max-width-emphasis + 200)) {

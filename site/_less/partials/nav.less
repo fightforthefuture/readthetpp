@@ -15,8 +15,29 @@ nav {
     }
 
     ul {
-        width: 100%;
+        max-width: @nav-width;
+        margin: 0px auto;
+        background: #eee;
         max-height: 0px;
         overflow: hidden;
+        border-radius: 10px;
+        padding: 0rem 2rem 0rem 2rem;
+        box-sizing: content-box;
+        -moz-box-shadow:    inset 0 0 10px rgba(0, 0, 0, .2);
+        -webkit-box-shadow: inset 0 0 10px rgba(0, 0, 0, .2);
+        box-shadow:         inset 0 0 10px rgba(0, 0, 0, .2);
+
+        &.visible {
+            max-height: 10000px;
+        }
+
+        li {
+            text-align: left;
+            margin: 1rem 0;
+
+            strong {
+                font-weight: bold;
+            }
+        }
     }
 }

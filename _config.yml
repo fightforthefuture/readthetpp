@@ -9,9 +9,11 @@
 
 name: Read the TPP
 url: https://www.readthetpp.com
-description: Read the TPP to find out how much it sucks!
+sharetitle: 'Finally, a chance to read the contents of the TPP.'
+description: It's been so secret so long.
 timezone: America/Los_Angeles # Should be formatted like formal tz database
 googleanalytics: UA-XXXXXXXX-XX
+twittertext: Now you can
 
 favicon: '' # replace this with path to favicon if that’s a thing you’re doing.
 pathlead: '' # use this if you need a leading slash or directory on asset paths
