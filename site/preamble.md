@@ -7,7 +7,7 @@ shownav: true
 
 The Parties to this Agreement, resolving to:
 
-**ESTABLISH** a comprehensive regional agreement that promotes economic integration toliberalise trade and investment, bring economic growth and social benefits, create new opportunities for workers and businesses, contribute to raising living standards, benefit consumers, reduce poverty and promote sustainable growth;
+**ESTABLISH** a comprehensive regional agreement that promotes economic integration to liberalise trade and investment, bring economic growth and social benefits, create new opportunities for workers and businesses, contribute to raising living standards, benefit consumers, reduce poverty and promote sustainable growth;
 
 **STRENGTHEN** the bonds of friendship and cooperation between them and their peoples;
 
@@ -43,7 +43,7 @@ The Parties to this Agreement, resolving to:
 
 **ESTABLISH** an Agreement to address future trade and investment challenges and opportunities, and contribute to advancing their respective priorities over time; and
 
-**EXPAND**their partnership by encouraging the accession of other States or separate customs territories in order to further enhance regional economic integration and create the foundation of a Free Trade Area of the Asia Pacific,
+**EXPAND** their partnership by encouraging the accession of other States or separate customs territories in order to further enhance regional economic integration and create the foundation of a Free Trade Area of the Asia Pacific,
 
 **HAVE AGREED** as follows:
 
