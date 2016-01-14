@@ -7,7 +7,7 @@ shownav: true
 
 The Parties to this Agreement, resolving to:
 
-**ESTABLISH** a comprehensive regional agreement that promotes economic integration toliberalise trade and investment, bring economic growth and social benefits, create new opportunities for workers and businesses, contribute to raising living standards, benefit consumers, reduce poverty and promote sustainable growth;
+**ESTABLISH** a comprehensive regional agreement that promotes economic integration to liberalise trade and investment, bring economic growth and social benefits, create new opportunities for workers and businesses, contribute to raising living standards, benefit consumers, reduce poverty and promote sustainable growth;
 
 **STRENGTHEN** the bonds of friendship and cooperation between them and their peoples;
 
