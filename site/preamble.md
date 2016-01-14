@@ -43,7 +43,7 @@ The Parties to this Agreement, resolving to:
 
 **ESTABLISH** an Agreement to address future trade and investment challenges and opportunities, and contribute to advancing their respective priorities over time; and
 
-**EXPAND**their partnership by encouraging the accession of other States or separate customs territories in order to further enhance regional economic integration and create the foundation of a Free Trade Area of the Asia Pacific,
+**EXPAND** their partnership by encouraging the accession of other States or separate customs territories in order to further enhance regional economic integration and create the foundation of a Free Trade Area of the Asia Pacific,
 
 **HAVE AGREED** as follows:
 
