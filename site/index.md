@@ -17,7 +17,8 @@ This site is a public resource created by
 [Communications Workers of America](http://www.cwa-union.org/). We are
 publishing the full TPP text along with expert annotations explaining
 how it could actually affect you. This site is a work in progress, and
-everyone is welcome to contribute.
+everyone is welcome to
+[contribute](https://github.com/fightforthefuture/readthetpp/blob/master/README.md).
 
 ---------
 
