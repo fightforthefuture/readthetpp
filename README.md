@@ -10,9 +10,9 @@ Markdown.
 ## Help us add annotations!
 
 The site is still very much a work in progress and everyone is welcome to
-contribute. To add an annotation, simply select a block of text and click on
-the annotate icon that pops up. This functionality is powered by
-[Genius](http://genius.com/).
+contribute. To add an annotation, simply select a block of text in one of
+the [chapters](https://www.readthetpp.com) and click on the annotate icon
+that pops up. This functionality is powered by [Genius](http://genius.com/).
 
 ## Development
 
