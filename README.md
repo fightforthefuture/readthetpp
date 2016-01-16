@@ -1,15 +1,15 @@
 # Read the TPP
 
-Welcome to the source code for Read the TPP! This project is licensed into the
+This project is licensed into the
 [public domain][01] and free to use for any purpose. Read this doc for
 instructions on contributing. Please also submit an
 Issue or Pull Request if you notice something wrong in the TPP text. Errors or
 ugliness may have popped up during the process of turning the entire TPP into
 Markdown.
 
-## Help us add annotations
+## Help us add annotations!
 
-This site is still very much a work in progress and everyone is welcome to
+The site is still very much a work in progress and everyone is welcome to
 contribute. To add an annotation, simply select a block of text and click on
 the annotate icon that pops up. This functionality is powered by
 [Genius](http://genius.com/).
